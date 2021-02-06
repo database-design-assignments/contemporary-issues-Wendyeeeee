@@ -2,7 +2,7 @@
 
 I discuss two articles about the possibility of TikTok collecting user information and handing it over to the Chinese government, and the claim by some that this would pose an urgent threat to U.S. national security and therefore the U.S. government would need to respond to it. My discussion of the two opposing views on this critical matter are as follows.
 
-##  TikTok Should Be Curbed in the United States for the Information Security Safety Sake
+## For Information Security Reasons, the United States Should Curb the Development of TikTok
 
 In The New York Times's [TikTok Enlists Army of Lobbyists as Suspicions Over China Ties Grow](https://www.nytimes.com/2020/07/15/technology/tiktok-washington-lobbyist.html?_ga=2.190344034.850456376.1612550030-1788139640.1612550030), the news notes that U.S. officials, led by former Secretary of State Mike Pompeo, are considering taking restrictive measures against TikTok's parent company ByteDance and other social media from China, such as Tencent, the parent company of WeChat, in a move aimed precisely at clearing up potential national dangers. They argue that ByteDance has difficulty escaping the Chinese government's directives and controls, meaning that U.S. users' private information could be used for surveillance or espionage. Therefore, to protect U.S. users' private information, staying away from insecure Chinese companies or banning Chinese softwares represented by TikTok may become the solution.
 
